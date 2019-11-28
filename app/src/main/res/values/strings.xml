@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipalRecyclerViewItem</string>
+    <string name="heading">Heading</string>
+    <string name="receivers_message">Receivers message</string>
+    <string name="_12_30_am">12:30 AM</string>
+    <string name="sender_message">Sender message</string>
+    <string name="message">Message</string>
+</resources>
